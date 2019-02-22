@@ -1,4 +1,4 @@
-#Lissajous
+# Lissajous
 
 This is a simple lissajous graph drawing app made with p5.js library and plain HTML.
 
